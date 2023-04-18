@@ -27,7 +27,7 @@ const Home = () => {
                 <View style={content}>
                     <Welcome />
                     <Popularjobs />
-                    {/* <NearByjobs /> */}
+                    <NearByjobs />
                 </View>
             </ScrollView>
         </SafeAreaView>
